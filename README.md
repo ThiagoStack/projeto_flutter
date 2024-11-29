@@ -1,7 +1,8 @@
 #PROJETO A3 VIDEO DE APRESENTAÇÃO E GRUPO
 
-Lucca Serra de Melo Reis
-Ra:1272116626
+*Lucca Serra de Melo Reis
+Ra:1272116626*
+
 Thiago nunes da cruz lucas
 RA: 722421909
 Kaliane Vitoria Oliveira Baccetti 
